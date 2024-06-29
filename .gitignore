@@ -18,3 +18,4 @@ buildNumber.properties
 /learn-by-spring-boot/.mvn
 learn-by-spring-boot/mvnw
 learn-by-spring-boot/mvnw.cmd
+/.idea

@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Learn By Spring Boot
+
+server:
+  port: 8089
